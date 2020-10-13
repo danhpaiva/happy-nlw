@@ -11,10 +11,8 @@ Ou seja, para dominar uma tecnologia não basta apenas conhecer a teoria ou ler 
 
 ## Ferramentas utilizadas
 
-- React
-Create-React-App
-react-icon
-react-router-dom	
+- React<br>
+(create-React-App , react-icon, react-router-dom )
 - Node
 - Yarn
 - Google Fonts
